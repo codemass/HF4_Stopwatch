@@ -21,7 +21,7 @@ public class StopwatchActivity extends AppCompatActivity {
     }
 
     //Запустить секундомер при щелчке на кнопке Start
-    public void onClickSrart(View view) {
+    public void onClickStart(View view) {
         running = true; //Запустить секундомер
     }
 
